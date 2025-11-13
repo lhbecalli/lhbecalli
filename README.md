@@ -27,15 +27,7 @@ Always learning, testing, and pushing my projects to the next level ⚡
 
 ---
 
-### 💼 Featured Projects
 
-#### 🧾 To-Do List  
-Simple and interactive task manager using **HTML**, **CSS**, and **JavaScript**.  
-🔗 [View Repository](https://github.com/lhbecalli/todo-list)
-
-#### 📰 Responsive News Layout  
-Responsive homepage inspired by online newspapers — built with **Bootstrap**, **CSS**, and **SEO structure**.  
-🔗 [View Repository](https://github.com/lhbecalli/news-layout)
 
 ---
 
