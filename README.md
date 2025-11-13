@@ -23,12 +23,8 @@ Always learning, testing, and pushing my projects to the next level ⚡
 - **Bootstrap** — grid system, components, and responsive UI  
 - **JavaScript (ES6+)** — DOM manipulation and interactivity  
 - **React.js** — components, props, and state management  
-- **SEO Concepts** — structure, performance, and visibility on search engines  
-
----
-
-
-
+- **SEO Concepts** — structure, performance, and visibility on search engines
+  
 ---
 
 ### 📊 GitHub Stats
