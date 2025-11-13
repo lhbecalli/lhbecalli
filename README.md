@@ -33,10 +33,6 @@ Always learning, testing, and pushing my projects to the next level ⚡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhbecalli&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-
-## 🔥 Contribution Streak
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhbecalli&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=lhbecalli&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </p>
 ---
 
 ### 🌐 Let's Connect
