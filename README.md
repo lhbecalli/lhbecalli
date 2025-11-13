@@ -63,4 +63,4 @@ Responsive homepage inspired by online newspapers — built with **Bootstrap**, 
 
 ---
 
-> “Coding ideas into reality.”.”
+> “Coding ideas into reality.”
