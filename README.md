@@ -41,7 +41,6 @@ Always learning, testing, and pushing my projects to the next level ⚡
 </p>
 
 ---
----
 
 ### 🌐 Let's Connect
 
