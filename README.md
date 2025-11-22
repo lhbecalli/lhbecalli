@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Luiz
+# Luiz Henrique
 
 🚀 I'm a **Front-End Developer** focused on creating clean, responsive, and accessible web experiences.  
 Currently learning **React** and **Bootstrap**, improving my **JavaScript** skills, and deepening my understanding of **SEO** and web performance.
