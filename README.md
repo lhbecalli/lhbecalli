@@ -17,21 +17,6 @@ Always learning, testing, and pushing my projects to the next level ⚡
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" width="40"/>
 </p>
 
-HTML5 — semantic structure and accessibility  
-
-CSS3 — layouts, animations, and responsive design  
-
-Bootstrap — grid system, components, and responsive UI  
-
-JavaScript (ES6+) — DOM manipulation and interactivity  
-
-React.js — components, props, and state management  
-
-Java — Object-Oriented Programming (POO), MVC Architecture & Persistence
-
-SEO Concepts — structure, performance, and visibility on search engines
-  
-
 📊 GitHub Stats
 
 <p align="center">
