@@ -1,9 +1,9 @@
 # Luiz Henrique
 
-🚀 I'm a **Front-End Developer** focused on creating clean, responsive, and accessible web experiences.  
+ I'm a **Front-End Developer** focused on creating clean, responsive, and accessible web experiences.  
 Currently learning **React** and **Bootstrap**, improving my **JavaScript** skills, and deepening my understanding of **SEO** and web performance.
 
-💡 I enjoy building interfaces, exploring design-to-code workflows, and constantly improving my code quality.  
+ I enjoy building interfaces, exploring design-to-code workflows, and constantly improving my code quality.  
 Always learning, testing, and pushing my projects to the next level ⚡
 
 ---
