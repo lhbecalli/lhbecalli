@@ -1,10 +1,8 @@
 Luiz Henrique
 
- I'm a Front-End Developer focused on creating clean, responsive, and accessible web experiences.  
-Currently learning React, Bootstrap and Java, improving my JavaScript skills, and deepening my understanding of SEO and web performance.
+I am a Front-End developer focused on creating clean, responsive, and accessible web experiences. Currently, I have skills in React, Bootstrap, and HTML, and some knowledge of backend development, such as the Java language. 
 
- I enjoy building interfaces, exploring design-to-code workflows, and constantly improving my code quality.  
-Always learning, testing, and pushing my projects to the next level ⚡
+I am constantly learning and expanding my skills within the world of development.I enjoy building interfaces, exploring design-to-code workflows, and constantly improving my code quality. Always learning, testing, and pushing my projects to the next level ⚡
 
 🛠️ Technologies & Skills
 
