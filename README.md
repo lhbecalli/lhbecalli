@@ -15,12 +15,6 @@ I am constantly learning and expanding my skills within the world of development
   <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" width="40"/>
 </p>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhbecalli&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 🌐 Let's Connect
 
 “Coding ideas into reality.”
