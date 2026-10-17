@@ -2,7 +2,7 @@
 
 **Especialista em Automações e IA · AI Engineer & Desenvolvedor Front-End 🇧🇷**
 
-*Transformo agentes de IA, LLMs e automações em produtos reais.*
+*Transformo agentes de IA, LLMs e automações em otimizações de processos.*
 
 🇧🇷 Português · [🇺🇸 English](LINK_README_EN)
 
