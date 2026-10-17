@@ -13,7 +13,7 @@
 ## 🚀 Sobre mim
 
 * ⚡ **Especialista em automações e IA**: construo agentes de IA, automações com IA integrada, com foco em otimização de processos.
-* 🤖 **AI Engineer** com foco em **agentes de IA, LLMs e RAG**, integrando tudo a interfaces web com **React e TypeScript** — do protótipo à produção.
+* 🤖 **AI Engineer** com foco em **agentes de IA, LLMs e RAG**, integrando tudo a interfaces web com **React e TypeScript** do protótipo à produção.
 * 📰 Na **Rede Tribuna**, desenvolvi o **Tribuna SEO Helper**, contemplado pelo Google como **case de sucesso exemplar no Google News Summit 2026**, e um pipeline de SEO com IA que processa cerca de 600 matérias por mês.
 * 🎓 Sistemas de Informação.
 * 💬 Fale comigo sobre **agentes de IA, RAG, n8n, automação e front-end moderno e responsivo**.
