@@ -1,4 +1,4 @@
-# Oi 👋, eu sou o Luiz Henrique Becalli
+# Prazer !👋 Eu sou o Luiz Henrique Becalli
 
 **Especialista em Automações e IA · AI Engineer & Desenvolvedor Front-End 🇧🇷**
 
